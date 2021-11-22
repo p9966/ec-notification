@@ -1,0 +1,12 @@
+{
+    "resources": [
+        {
+            "resource": {
+                "name": "getmsgcount",
+                "path": "/voipman/p/15589974.html",
+                "method": "GET",
+                "host": "notificationhost"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "servers": [
+        {
+            "name": "notificationhost",
+            "hostlist": [
+                {
+                    "channel": "gdev",
+                    "host": "http://localhost:5000"
+                },
+                {
+                    "channel": "dev",
+                    "host": "https://www.cnblogs.com"
+                }
+            ]
+        }
+    ]
+}

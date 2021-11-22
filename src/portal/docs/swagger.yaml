@@ -1,0 +1,6 @@
+info:
+  contact: {}
+paths:
+  /api/v1/notification/msgcount:
+    get: {}
+swagger: "2.0"
